@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository is archived. This fork is no longer maintained. Use [Vue DevTools](https://github.com/vuejs/devtools) upstream, or [Nuxt DevTools](https://github.com/nuxt/devtools).
+
 # vue-devtools
 
 ### Important Usage Notes
